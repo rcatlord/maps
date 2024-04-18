@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Blossom Bloomtown Map 2024</name>
+    <description/>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-2163-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.163</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0F9D58-2163-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.2445</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-2163">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-2163-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-2163-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-2550-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>2.55</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-7CB342-2550-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>3.825</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-7CB342-2550">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-2550-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-2550-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-2356-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>2.356</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-880E4F-2356-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>3.534</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-880E4F-2356">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-2356-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-2356-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-B2EBF2-2938-normal">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-B2EBF2-2938-highlight">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-B2EBF2-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B2EBF2-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B2EBF2-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-EDA29B-3325-normal">
+      <LineStyle>
+        <color>ff9ba2ed</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-EDA29B-3325-highlight">
+      <LineStyle>
+        <color>ff9ba2ed</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-EDA29B-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-EDA29B-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-EDA29B-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Blossom Hotspots</name>
+      <Placemark>
+        <name>Alexandra Park</name>
+        <description><![CDATA[<img src="https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/3mn8kh06qklubsnidil5jqli8o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqIgZavY5i68Jxaxyt9vRvJQ3kmnFkCI-x-QjS05tKoVwJQalO67fljdTQvpXDOOQL8EfbrZDmxAPPQ5kzQtKnoJb0CPZ9iCO4jzMwYEvA6jw_4IfR_cO_9auA3cUFaEPEjxCZ-exwrOpZNc2VO2Ys36gn5cUU6q_1BydD9rwld2lDAy1_dg2ge23e2eSnkUoxYRtST785Q990Z8-eOvR0bX6a8esbhcpSbGzY7FTLpcvk?fife" height="200" width="auto" /><br><br>History: Alexandra Park was ahead of its time when it was built for people to relax and play sport in. <br><br>Blossom: The cherry, crab apple and other fruit trees should be in bloom sometime in March/April.<br><br>Look out for: Parakeets have made their home here. Listen out for their characteristic squawk.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey      ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/3mn8kh06qklubsnidil5jqli8o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqIgZavY5i68Jxaxyt9vRvJQ3kmnFkCI-x-QjS05tKoVwJQalO67fljdTQvpXDOOQL8EfbrZDmxAPPQ5kzQtKnoJb0CPZ9iCO4jzMwYEvA6jw_4IfR_cO_9auA3cUFaEPEjxCZ-exwrOpZNc2VO2Ys36gn5cUU6q_1BydD9rwld2lDAy1_dg2ge23e2eSnkUoxYRtST785Q990Z8-eOvR0bX6a8esbhcpSbGzY7FTLpcvk?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2479739,53.451326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angel Meadow</name>
+        <description><![CDATA[<img src="https://doc-0c-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/e7vp589u3ru42cu3f0uvm2fm18/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpgwNEKK_1US9T2wnyR9Yw08Q_zU2oK0xHKbBuXLwcCny_232zfzTKvxg-6uFFiJCqgLSS-hH0mJUbuk9BoJ2Y6qK8_RPrcQHyJZlECS8EuDmLE2VuMn-Z78ZwZqsq1XXBSJ_UDEcAimks5cOmgIodcamH607MOVw80bvPd-oFVcGQvJLw_g2CE6G80-vmXcRq_OsjlVZbkgPY-dlU1BIX_Tb_WI7atjtlUd7gswuM2HLE?fife" height="200" width="auto" /><br><br>History: This blossom hotspot hides a grim truth. Opened as a cemetery in the 18th century, around 40,000 people were buried here. <br><br>Blossom: Rowan trees, they have white flowers.<br><br>Look out for: Birds flying between the trees.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0c-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/e7vp589u3ru42cu3f0uvm2fm18/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpgwNEKK_1US9T2wnyR9Yw08Q_zU2oK0xHKbBuXLwcCny_232zfzTKvxg-6uFFiJCqgLSS-hH0mJUbuk9BoJ2Y6qK8_RPrcQHyJZlECS8EuDmLE2VuMn-Z78ZwZqsq1XXBSJ_UDEcAimks5cOmgIodcamH607MOVw80bvPd-oFVcGQvJLw_g2CE6G80-vmXcRq_OsjlVZbkgPY-dlU1BIX_Tb_WI7atjtlUd7gswuM2HLE?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2359281,53.4887339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ardwick Green</name>
+        <description><![CDATA[<img src="https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/5kvqh1q97785dikk57c9779p5o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoeLnMfm677TaTwtUyqdD-Kq6JQCMoiIYnxzMIkxvjcwFuGtXEObMIv3e-x7gW8OCtj3Wq3abWQvLy1BPB4Y-oTXcrCirZW8a7JM3z4mRYSyMlWFo1X3UNABzm-aFvBiKGWkF4idhUkKo-n4prJV0ZfvZ2psh-TVpHB6YI5mFfc4sJ4g1Q8kAPQBC1PIT_WB-6PfGjJuk8HGcigO5Q_H0Glf7VIEtFeCr9qB9sS2Z7xfpM?fife" height="200" width="auto" /><br><br>History: In 1825, the people of Ardwick campaigned to protect the green from development.<br><br>Blossom: Spot the flowers on the cherry trees.<br><br>Look out for: Bees buzzing round the flowers. Ardwick Green is a great ‘highway’ for bees.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/5kvqh1q97785dikk57c9779p5o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoeLnMfm677TaTwtUyqdD-Kq6JQCMoiIYnxzMIkxvjcwFuGtXEObMIv3e-x7gW8OCtj3Wq3abWQvLy1BPB4Y-oTXcrCirZW8a7JM3z4mRYSyMlWFo1X3UNABzm-aFvBiKGWkF4idhUkKo-n4prJV0ZfvZ2psh-TVpHB6YI5mFfc4sJ4g1Q8kAPQBC1PIT_WB-6PfGjJuk8HGcigO5Q_H0Glf7VIEtFeCr9qB9sS2Z7xfpM?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2246182,53.4715656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birchfields Park</name>
+        <description><![CDATA[<img src="https://doc-0o-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/7um9qkt58jl8jquljo0oqsmkdg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgryKxtuX8ni-XLbM3j_6oMQ-U2po_mWJDnbcCs7RDB8swI09m1y0vNzlPo74vocV8V2_BploSeQUa4sCVlGhvPGPxy7GrQe872GHhX3i6DkRnCl4CrB3yX8p6g5rDgjFiZcQQJqxhPukshk9iUSKpSc_wzC_f2-069zm5PXgkHQBcOkIXU9n53VcRBxRi6Zn5HoDZkcSg26jy4b4Xfiw68x7IYPcPrjlGXS-j-IU8acooo?fife" height="200" width="auto" /><br><br>History: Birchfields Park was created as a public park designed for ‘healthy recreation’ in 1888. <br><br>Blossom: Plum, pear and apple trees bloom here.<br><br>Look out for: Bee walks by the Friends of Birchfields Park. The park is home to a wide variety of bees including carder bees, mining bees and even forest cuckoo bumblebees.  <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0o-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/7um9qkt58jl8jquljo0oqsmkdg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgryKxtuX8ni-XLbM3j_6oMQ-U2po_mWJDnbcCs7RDB8swI09m1y0vNzlPo74vocV8V2_BploSeQUa4sCVlGhvPGPxy7GrQe872GHhX3i6DkRnCl4CrB3yX8p6g5rDgjFiZcQQJqxhPukshk9iUSKpSc_wzC_f2-069zm5PXgkHQBcOkIXU9n53VcRBxRi6Zn5HoDZkcSg26jy4b4Xfiw68x7IYPcPrjlGXS-j-IU8acooo?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2116604,53.4535014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Metropolitan University Birley Orchard</name>
+        <description><![CDATA[<img src="https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/hf5bmsunh4vsgg1tl3un3tk350/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqwLKQbGSi36gwqoR9Fjcp1S8mF9S_v2o9Hpfy_mP8Gf5NHX7s8_KjOBVdGi0vo4oCwDSbdGgt_M87qiUSZbdoeE5OX3NSMY6-mdhy0EKCGRMpiB0IpekBo8IQobsnux89Lk5VNxMHSl_8igfuTAd4x71R2Bmqvl2ilq2ZW4dcJAXHcMjX3XP1wEeZ1QwHt-ftpOe2vDbMS5tuPfBXUAdXnQv1vBBRwv5rS6qCf0uCFXn8?fife" height="200" width="auto" /><br><br>History: This community orchard is part of Birley campus – a recent development from Manchester Metropolitan University. <br><br>Blossom: Apple, pear, plum and cherry trees were all planted to create this orchard.<br><br>Look out for: Manchester Metropolitan University’s sustainability trail in which this orchard features.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/hf5bmsunh4vsgg1tl3un3tk350/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqwLKQbGSi36gwqoR9Fjcp1S8mF9S_v2o9Hpfy_mP8Gf5NHX7s8_KjOBVdGi0vo4oCwDSbdGgt_M87qiUSZbdoeE5OX3NSMY6-mdhy0EKCGRMpiB0IpekBo8IQobsnux89Lk5VNxMHSl_8igfuTAd4x71R2Bmqvl2ilq2ZW4dcJAXHcMjX3XP1wEeZ1QwHt-ftpOe2vDbMS5tuPfBXUAdXnQv1vBBRwv5rS6qCf0uCFXn8?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2479296,53.4663036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blackleach Country Park</name>
+        <description><![CDATA[History: Formally an industrial site with a chemical works, by 2004 the recovery was so great that Blackleach was designated as a Local Nature Reserve.<br><br>Blossom: Hawthorn and cherry<br><br>Look out for: Waterfowl on the lake including Tufted Ducks and swans.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3977983,53.5304336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridgewater Community Garden</name>
+        <description><![CDATA[<img src="https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/tna06bqf6vkjsq9uriuaa3j624/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrQIoqYV5y0XIqIU8D_ODgTDx6R1eSnVPvSNU9Jrw31XFtVB1bCbjwtj9I5Px2enhRL-F_iS0P7oCwLliigHseKE4Om0SmiXMz-t7INhviHASCShTco3QjL1dn7PH2Fqv4vu2LJlG0_6sZgGq1hH10X6-VLjXmcSMcjOxVHoYJqzFoUw4p898E3sUv0U3qWaFAIqt0_Hg9P1T7OnmcoWv4zAHSaLvUQsNiPMeRskngVUss?fife" height="200" width="auto" /><br><br>History: Brought to life by the Bridgewater Residents Association, this garden shows how people power can bring blossom to the city.<br><br>Blossom: The orchard includes pears, apples, plums and even an apricot tree.<br><br>Look out for: Chances to get involved. There are opportunities for people from the area to get involved and help out with this garden.  <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/tna06bqf6vkjsq9uriuaa3j624/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrQIoqYV5y0XIqIU8D_ODgTDx6R1eSnVPvSNU9Jrw31XFtVB1bCbjwtj9I5Px2enhRL-F_iS0P7oCwLliigHseKE4Om0SmiXMz-t7INhviHASCShTco3QjL1dn7PH2Fqv4vu2LJlG0_6sZgGq1hH10X6-VLjXmcSMcjOxVHoYJqzFoUw4p898E3sUv0U3qWaFAIqt0_Hg9P1T7OnmcoWv4zAHSaLvUQsNiPMeRskngVUss?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2533162,53.4899478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castlefield Viaduct</name>
+        <description><![CDATA[<img src="https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/6144826v2tluaepj13vrbj5508/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpN6OUIusyq8t-RS69hBn8FGWEfc2qLl12FbxNtu61AZdclb11RszlxV77Vv4wAz4fFAZFqJDRzWuC7rLAq6ltVWC8mSLmzCP7qc-hWnyHnntu9SS05PwHjhwtrDap_RQEcSqfaqvTqfWldmwm8TCphTGxHD0GU3gvw9aJlM1hgyyQPGxqIZV0wohA0S5Gn5zqyt5Js2txOo63qPOEQspfeLP5M-ILhXGJSKZ2uORP2oQ4?fife" height="200" width="auto" /><br><br>History: Formally carrying trains to Manchester Central Station and the Great Northern Goods Warehouse, the National Trust has temporarily opened the viaduct as a garden space for everyone to enjoy. Speak to a member of the team to find out more.<br><br>Blossom: There are 63 Fuji cherry trees on the viaduct, showing that you don’t need much space to bring nature to the city.<br><br>Look out for: The new community workshop space. Added to the viaduct for 2024, this space is for any community groups to come and hold workshops. For more information visit the viaduct website.<br><br>To plan your visit and find out more, go to www.nationaltrust.org.uk/castlefield-viaduct <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/6144826v2tluaepj13vrbj5508/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpN6OUIusyq8t-RS69hBn8FGWEfc2qLl12FbxNtu61AZdclb11RszlxV77Vv4wAz4fFAZFqJDRzWuC7rLAq6ltVWC8mSLmzCP7qc-hWnyHnntu9SS05PwHjhwtrDap_RQEcSqfaqvTqfWldmwm8TCphTGxHD0GU3gvw9aJlM1hgyyQPGxqIZV0wohA0S5Gn5zqyt5Js2txOo63qPOEQspfeLP5M-ILhXGJSKZ2uORP2oQ4?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2547045,53.4752051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clifton Country Park</name>
+        <description><![CDATA[History: This area was used for coal mining for over 200 years, but since 2005 it has been a designated nature reserve.<br><br>Blossom: Blackthorn and hawthorn trees bloom here.<br><br>Look out for: The industrial remains of the Wet Earth Colliery.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3401002,53.5326145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cutting Room Square</name>
+        <description><![CDATA[<img src="https://doc-0g-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/g55s03io6hce570ugpmghacio4/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqsiEbSBYddFMYnGfsRekDcYHBZb2weC73SegUBG3mgHK5xX1VMhoZEHAUthgRqi_z8aKhui5KXifHy4nvIR_hDUX8JZEJ5U4wblWn0UjWOK2_MZCoISxkgcCYXpx77QCffDNEOYFvO-V6L5Wzw9CFpTMOgK7FlFA1IYejhBYhjTSqwh0ZlchacEp7LUKwvgGZYdIceHmo6E_B6mb5OCLOkPRKfiUzSSfVh9sbuKq8vD40?fife" height="200" width="auto" /><br><br>History: This area was once full of the textile mills and other industries which made Manchester the world’s first industrial city.<br><br>Blossom: Just off Blossom Street, the Amelanchier trees are the perfect spot to immerse yourself in dainty white blossom.<br><br>Look out for: Bees (proper Manchester ones!). Amelanchiers are a great source of nectar for bees. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0g-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/g55s03io6hce570ugpmghacio4/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqsiEbSBYddFMYnGfsRekDcYHBZb2weC73SegUBG3mgHK5xX1VMhoZEHAUthgRqi_z8aKhui5KXifHy4nvIR_hDUX8JZEJ5U4wblWn0UjWOK2_MZCoISxkgcCYXpx77QCffDNEOYFvO-V6L5Wzw9CFpTMOgK7FlFA1IYejhBYhjTSqwh0ZlchacEp7LUKwvgGZYdIceHmo6E_B6mb5OCLOkPRKfiUzSSfVh9sbuKq8vD40?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2293707,53.4843173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dukes Drive</name>
+        <description><![CDATA[History: Dukes Drive is located on the Bridgewater Canal which was opened in 1761. The canal was built by Francis Egerton, 3rd Duke of Bridgewater to transport coal from his mines in Worsley.<br><br>Blossom: Cherry trees bloom with pink flowers<br><br>Look out for: Places to stretch your legs with a walk down the canal or cycling along cycle route 66.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3608963,53.4946587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gartside Gardens</name>
+        <description><![CDATA[<img src="https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/m2mnm2nbt09gsnv0hums9sbj7k/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqdzh2tX_h-iHRHavScA5B6ZnWT6vpDaHaKOw6eMW_3jG3c5nEzEZDuO8m29pLx6uOQiOLojwWyZ-6bJtm_S6egU5tS8LoenX0EqUASDuxOSBp8iFQ7_kbbUO9lNvqNxieAanPA6X4_ibKHLtiQuUBhaH5rysVYGd2aKmACIk_JXVEs3AqeWsx2jTTWd5WyHI2AQl_WCqY2emKq9RA5zyjOU-vSRxXHKG8Cvq6K5R60aJc?fife" height="200" width="auto" /><br><br>History: Originally the Rusholme Road cemetery, it has been open as a public park since the 1950s. <br><br>Blossom: There are three large cherry trees with pink flowers.<br><br>Look out for: The chance to play a game. Can you catch a petal as it falls from the tree? Score one point per petal, no cheating!<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/m2mnm2nbt09gsnv0hums9sbj7k/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqdzh2tX_h-iHRHavScA5B6ZnWT6vpDaHaKOw6eMW_3jG3c5nEzEZDuO8m29pLx6uOQiOLojwWyZ-6bJtm_S6egU5tS8LoenX0EqUASDuxOSBp8iFQ7_kbbUO9lNvqNxieAanPA6X4_ibKHLtiQuUBhaH5rysVYGd2aKmACIk_JXVEs3AqeWsx2jTTWd5WyHI2AQl_WCqY2emKq9RA5zyjOU-vSRxXHKG8Cvq6K5R60aJc?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2312645,53.4706779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hullard Park</name>
+        <description><![CDATA[<img src="https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/fslq3ph4ctjbbb7gr91k0nmhlk/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqCx4Rxq9Mo7p-V7PTO_W9izZmGRLtNIOtddXK_RVq31uEF0zWrbGKu3bXHJDd3_ZyVUDb2JY6mr2rFZNQCd8R3NutfwYhgb9XAojAEC3fNzrD34NLvL90pfCgDMAyBcoXrIOfIMWAOMwH302oZzyqnFXQ_WBxjzF5jvQVBnWikWwpu9XZYb-72WqYzKkxlM11ZdRtomNR7Bcake2s9zqinzPBYVrlNdXkNnCAqw0n_L4o?fife" height="200" width="auto" /><br><br>History: This park was purchased and created in 1895 under the Public Health Act (1875). The Public Health Act was a result of years of campaigning and legislation to improve sanitation and conditions in the Victorian era.<br><br>Blossom: Enjoy the circle of cherry trees.<br><br>Look out for: The largest urban wildflower meadow in England!<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/fslq3ph4ctjbbb7gr91k0nmhlk/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqCx4Rxq9Mo7p-V7PTO_W9izZmGRLtNIOtddXK_RVq31uEF0zWrbGKu3bXHJDd3_ZyVUDb2JY6mr2rFZNQCd8R3NutfwYhgb9XAojAEC3fNzrD34NLvL90pfCgDMAyBcoXrIOfIMWAOMwH302oZzyqnFXQ_WBxjzF5jvQVBnWikWwpu9XZYb-72WqYzKkxlM11ZdRtomNR7Bcake2s9zqinzPBYVrlNdXkNnCAqw0n_L4o?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2683449,53.4615102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hulme Community Garden Centre</name>
+        <description><![CDATA[History: Hulme Community Garden Centre was established over 20 years ago as a community-led growing space. <br><br>Blossom: Apple, crab apple, plum, cherry, medlar, mulberry, hawthorn, blackthorn and lilac trees all create an array of blossom here.<br><br>Look out for: The Hulme Community Garden Centre partner plot on Castlefield Viaduct.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.248808,53.4652351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hulme Park</name>
+        <description><![CDATA[<img src="https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/09drjrih7h0pnerhi5ask6t82g/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrpzqjugiZm4FOute-fpfkrbaqrkLPZGxYp3SglTNOABb0ipykqU5X-1V42ii8xq1DI87HU1vzNruT8gv935OlWkV3UzMzzp48uuf37MUqx4rSJKpHu2Xq7GoU0IJIaWsHUFdjBQ2FClB8BArACfefmxc0O-X9Si4JvRoKnYCQBaUFIdXWo1h3Wc4N6tStbRVq4M2VFUmaOXz7i899WLF4DPDN9bFuH-BqJMbqmO44T6bo?fife" height="200" width="auto" /><br><br>History: Hulme Park was built in 1999, so is celebrating its 25th birthday in 2024. At the time, it was the first large scale park to have been built in Manchester for over 50 years.<br><br>Blossom: Groves of cherry trees.<br><br>Look out for: Masses of daffodils in early spring. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/09drjrih7h0pnerhi5ask6t82g/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrpzqjugiZm4FOute-fpfkrbaqrkLPZGxYp3SglTNOABb0ipykqU5X-1V42ii8xq1DI87HU1vzNruT8gv935OlWkV3UzMzzp48uuf37MUqx4rSJKpHu2Xq7GoU0IJIaWsHUFdjBQ2FClB8BArACfefmxc0O-X9Si4JvRoKnYCQBaUFIdXWo1h3Wc4N6tStbRVq4M2VFUmaOXz7i899WLF4DPDN9bFuH-BqJMbqmO44T6bo?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2523388,53.4701571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Art Gallery</name>
+        <description><![CDATA[History: Manchester Art Gallery was intended to provide a refuge from the toxic effects of life and work in an industrial city.<br><br>Blossom: Cherry. <br><br>Look out for: The Derek Jarman Pocket Park, a new green space inspired by artist, gay rights activist and gardener Derek Jarman’s celebrated garden in Dungeness, Kent.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2413604,53.4786943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Cathedral</name>
+        <description><![CDATA[<img src="https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/b18fk9tma75a724flsrep1lqnc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoalQx6v4MWvhDnPyAz1kmGytD8VHPZ8c37bJ4WciB5_RMPchX_sSZTCGv8sqaSUpAsNAzSMl2r9C2I6UZsu5HkSzw12q3BSon0uxuUf4LA8YM6SsZNbL8m1bFwM_ygFnMUixBzloZpnbP5urQChqyRH0YKfdDUk2EtNzV1Q9VXkjulU5fd-Nlios8hX5aXkN4srLunNXDj2MShJYTHoWEGbPT6Pd13SKRN6PnVO-8PLs0?fife" height="200" width="auto" /><br><br>History: The Cathedral’s history dates to at least 1215 and it is one of the most significant historical buildings in Manchester. Visit the Cathedral to find out more.<br><br>Blossom: Surrounded by cherry trees, the Cathedral is a perfect spot for quiet reflection.<br><br>Look out for: Bees amongst the flowers, the Cathedral hosts colonies of bees in its rooftop hives.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/b18fk9tma75a724flsrep1lqnc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoalQx6v4MWvhDnPyAz1kmGytD8VHPZ8c37bJ4WciB5_RMPchX_sSZTCGv8sqaSUpAsNAzSMl2r9C2I6UZsu5HkSzw12q3BSon0uxuUf4LA8YM6SsZNbL8m1bFwM_ygFnMUixBzloZpnbP5urQChqyRH0YKfdDUk2EtNzV1Q9VXkjulU5fd-Nlios8hX5aXkN4srLunNXDj2MShJYTHoWEGbPT6Pd13SKRN6PnVO-8PLs0?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2441564,53.4848284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayfield Park</name>
+        <description><![CDATA[<img src="https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/ohiatubddb4h3snbc2bp975834/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqQ-Apx5EkT2dpsMy8uulIWNjIK3hQsdEnzrUuvDq9Gnjx4AYB-puulHAFUL3CxcdEdK4PuXcP17210sUL4gkTB9Y24S4lDjJmDvq8P-Q1Ar4L7zAoGvZixHhb0iPvwwaCHpO2qbDHBgtwEHgnaGlmdI0GtwZO2wxTOY2Uqgcqhm0YXcBWXRtTpMCyaZMfGnt_WfP0XbK9TDR7PnfP7oGglnc-0D5Gx3OHnRg4Udz2YdZM?fife" height="200" width="auto" /><br><br>History: Mayfield is Manchester’s newest park opening in 2022. The River Medlock which flows through the park once powered a print works. <br><br>Blossom: Hawthorn, Amelanchier, foxglove tree, cherry and pear are some of the trees that bloom at Mayfield.<br><br>Look out for: Insects. With a huge variety of flowering trees, there’s a real feast for insects.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/ohiatubddb4h3snbc2bp975834/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqQ-Apx5EkT2dpsMy8uulIWNjIK3hQsdEnzrUuvDq9Gnjx4AYB-puulHAFUL3CxcdEdK4PuXcP17210sUL4gkTB9Y24S4lDjJmDvq8P-Q1Ar4L7zAoGvZixHhb0iPvwwaCHpO2qbDHBgtwEHgnaGlmdI0GtwZO2wxTOY2Uqgcqhm0YXcBWXRtTpMCyaZMfGnt_WfP0XbK9TDR7PnfP7oGglnc-0D5Gx3OHnRg4Udz2YdZM?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2275817,53.474988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ordsall Hall</name>
+        <description><![CDATA[<img src="https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/er64d4upd7n9vhus8i0lc325go/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpoOvKxh6BAtElg9y6dWFx_X_WsOKaDS5fZUKgvzI0k5JaBbYbRxluR0IWaEK8KKDi4DokZ3ivh2rtkhx7dmn340xWSuwzwQvQvuemfxleg3w3H2TmyGyJNtC8TtwCCZXJSiqSXTLY1ZYg63uKLPNnV24yeVZrfpQRJ1CVc8FtJbWZDXYOEkPgRbJghXCXo2Ae8B84yuuA5Ta2pOabGMWHUE-lHagnvQJIzh9rll3rG6Zw?fife" height="200" width="auto" /><br><br>History: There has been a Hall at Ordsall for the past 750 years. Even back in 1380 there was an orchard of blossoming trees here. Head into the Hall to find out more or visit the Ordsall Hall website.<br><br>Blossom: Rare and old fruit trees, including medlars.<br><br>Look out for: Spaces to relax with a book or picnic.<br><br>Opening times may vary – plan your visit at https://ordsallhall.com <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/er64d4upd7n9vhus8i0lc325go/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpoOvKxh6BAtElg9y6dWFx_X_WsOKaDS5fZUKgvzI0k5JaBbYbRxluR0IWaEK8KKDi4DokZ3ivh2rtkhx7dmn340xWSuwzwQvQvuemfxleg3w3H2TmyGyJNtC8TtwCCZXJSiqSXTLY1ZYg63uKLPNnV24yeVZrfpQRJ1CVc8FtJbWZDXYOEkPgRbJghXCXo2Ae8B84yuuA5Ta2pOabGMWHUE-lHagnvQJIzh9rll3rG6Zw?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2778974,53.4696042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parsonage Gardens</name>
+        <description><![CDATA[<img src="https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/7iefotrdpnviblofrbgm2sd6fc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpLFTws1mX93a3DB5p3BTnnj8TI5EFT-kE9b1LfAmd0hLUzB-IGee2R0YtcSE0BMJQDojTJMqoLLDzwOtNTLSUUONeeN7mWmNH8uPSmcYlzS0UbWcEbCRX4tlWVra_P3DUSDcjMt9xQZ04ecafeSqHZ0m1Hr-wHeKrq2UE5I4M_Wj8-4yYKu7we3k-rvha4Md3jL7pP-eMmJtqSuM6x1THizSiXoU_dn5A2danchLdnfgw?fife" height="200" width="auto" /><br><br>History: Parsonage Gardens has a long history connected to the church. In the 1400s, it was part of a garden used to grow food for the pupils of the church that was here at the time. It was later given to the wardens to use. In 1756, St Mary’s Church was built on this site and survived until the 1890s when it and the parsonage house were demolished, and the gardens were created.<br><br>Blossom: Cherry trees and magnolias.<br><br>Look out for: The magnolia blossoms, they have a sweet and citrusy smell.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/7iefotrdpnviblofrbgm2sd6fc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpLFTws1mX93a3DB5p3BTnnj8TI5EFT-kE9b1LfAmd0hLUzB-IGee2R0YtcSE0BMJQDojTJMqoLLDzwOtNTLSUUONeeN7mWmNH8uPSmcYlzS0UbWcEbCRX4tlWVra_P3DUSDcjMt9xQZ04ecafeSqHZ0m1Hr-wHeKrq2UE5I4M_Wj8-4yYKu7we3k-rvha4Md3jL7pP-eMmJtqSuM6x1THizSiXoU_dn5A2danchLdnfgw?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2481596,53.4823121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peel Park</name>
+        <description><![CDATA[<img src="https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/bru56oekgf6kjlaa7slgbibj6o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpxelq_dJhemZgrC1Kqm2eRotkjJOfxCLTnOD0YxNCbEolA659Fr40zpamrgfAdAZDLVSP7oPp5WhJ9691VUFOkCbyGSqluzMtgdxqc8ymWsy5pja8-SXoiADULHKKoj65VlLYO0HfzQGsW_47xWoGZF2Mt5NeLzuDYQ-c8KBJVUO66b9gyT_WvFf0DCOU5K6FNFqfDpV-DzUIAjRvg_1I_nkzUa5D86_khZFQm6S5K2HY?fife" height="200" width="auto" /><br><br>History: Peel Park has been delighting people with blossom since 1846. <br><br>Blossom: Apple, rowan, cherry and Hawthorn can all be found here.<br><br>Look out for: One of the hawthorn trees is around 175 years old. Peel Park’s Head Gardener kept a diary in the 1870s about which plants were thriving and which were misbehaving. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/bru56oekgf6kjlaa7slgbibj6o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpxelq_dJhemZgrC1Kqm2eRotkjJOfxCLTnOD0YxNCbEolA659Fr40zpamrgfAdAZDLVSP7oPp5WhJ9691VUFOkCbyGSqluzMtgdxqc8ymWsy5pja8-SXoiADULHKKoj65VlLYO0HfzQGsW_47xWoGZF2Mt5NeLzuDYQ-c8KBJVUO66b9gyT_WvFf0DCOU5K6FNFqfDpV-DzUIAjRvg_1I_nkzUa5D86_khZFQm6S5K2HY?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2715801,53.4866731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Philips Park</name>
+        <description><![CDATA[<img src="https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/d53mvcdcgpjm1getrej4b5er10/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrrettWyaJmXnRj5IFd9WLqPCk3H8VpfqKA_mNpG-IUAoD02TgwRGMi0GW1KHZHVuAiXWcmtB6DHtBtl_25YCBrpEoQdNahsuhTiC6JStJieU0_j1uMDNBx5_zffsIAHfv8HONUAD2ytvklhBnWz-yjcZHNAIzeFoKXplJgBGEI9W-M4E-ATeNeMv0W3DFyr1AHDpfu3-px2o0UvRC8gQtzDSr4H62RxJIffYy8Ia3F0MY?fife" height="200" width="auto" /><br><br>History: This park is one of the world’s first parks created entirely for the public, by the public in 1846.<br><br>Blossom: The cherry trees near the games area drip with pink blossom in the spring.<br><br>Look out for: The original features of this Grade II listed park including the amphitheatre. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/d53mvcdcgpjm1getrej4b5er10/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrrettWyaJmXnRj5IFd9WLqPCk3H8VpfqKA_mNpG-IUAoD02TgwRGMi0GW1KHZHVuAiXWcmtB6DHtBtl_25YCBrpEoQdNahsuhTiC6JStJieU0_j1uMDNBx5_zffsIAHfv8HONUAD2ytvklhBnWz-yjcZHNAIzeFoKXplJgBGEI9W-M4E-ATeNeMv0W3DFyr1AHDpfu3-px2o0UvRC8gQtzDSr4H62RxJIffYy8Ia3F0MY?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.1974121,53.4867092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Platt Fields Park</name>
+        <description><![CDATA[<img src="https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/b4dgdvm6pd0u6f1tdh8o876cqg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoOG9ukSpHM45fkAQFipxOT1hD5HGJXQhnVwFfBujYVrL2etxQt9YydouYzOWD5dPArEzSKBbhMzsThm-inYegxsRIUAGtQnlSVVqYMP0WBWZOUS_onaBXzqtCsMI3le2TeOfJ1ucuEV_utMDaAwimEmlUXvoPQtDLo2iaQyTZpUINisNQH1F8QDRtJo_PrnISkg8dubM0MnAIg7r6WVh7I4KkC2nyzXp8qRRBgMIfmMIc?fife" height="200" width="auto" /><br><br>History: Platt Fields Park was formally opened in 1910. Originally part of the estate for Platt Fields Hall, this area has a long history. <br><br>Blossom: The community orchard includes nearly 100 different types of fruit trees.<br><br>Look out for: The Nico ditch. Over 1000 years old, the Nico ditch would have been much longer than the section you can see in Platt Fields Park today.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/b4dgdvm6pd0u6f1tdh8o876cqg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoOG9ukSpHM45fkAQFipxOT1hD5HGJXQhnVwFfBujYVrL2etxQt9YydouYzOWD5dPArEzSKBbhMzsThm-inYegxsRIUAGtQnlSVVqYMP0WBWZOUS_onaBXzqtCsMI3le2TeOfJ1ucuEV_utMDaAwimEmlUXvoPQtDLo2iaQyTZpUINisNQH1F8QDRtJo_PrnISkg8dubM0MnAIg7r6WVh7I4KkC2nyzXp8qRRBgMIfmMIc?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2249741,53.4454218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queens Park</name>
+        <description><![CDATA[<img src="https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/jlgn8c5rkfu6mt726q8qck5vuk/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqm_N_y_z5AzT0Qf6dsTBrDH-CiCMXvJ3lBEsSWDGCHt0vGD5BXGB6ZqIIwqg6WTevu4gLTXpFTJg7qq4uijwK4RK8h-kJvnQ4VMkLlBRMb2OXN19AAIRzMQd2YPVS24Sqp6qEPEuoLoMQzFeS72YvSm_itUdgoN00N9lOHnVidN8bgfWKsNt-_Gr3szNL3auvW1jPVAHLBz1XMsQz6WYhhSrp9fBANr-xImJVCJLbRzmE?fife" height="200" width="auto" /><br><br>History: Manchester has some of the country’s first public parks and Queens Park is one of them.<br><br>Blossom: Look out for the cherry trees just near Rochdale Road.<br><br>Look out for: The red brick building in the park once housed precious artworks.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/jlgn8c5rkfu6mt726q8qck5vuk/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqm_N_y_z5AzT0Qf6dsTBrDH-CiCMXvJ3lBEsSWDGCHt0vGD5BXGB6ZqIIwqg6WTevu4gLTXpFTJg7qq4uijwK4RK8h-kJvnQ4VMkLlBRMb2OXN19AAIRzMQd2YPVS24Sqp6qEPEuoLoMQzFeS72YvSm_itUdgoN00N9lOHnVidN8bgfWKsNt-_Gr3szNL3auvW1jPVAHLBz1XMsQz6WYhhSrp9fBANr-xImJVCJLbRzmE?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.217996,53.505182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RHS Bridgewater</name>
+        <description><![CDATA[History: Once the site of Worsley New Hall, a grand Victorian house with garden and an estate, RHS Bridgewater opened to visitors in 2021.<br><br>Blossom: Apple, pear, plum, mulberry, damson, cherry, crap apple and quince trees have all been planted in the orchard garden.<br><br>Look out for: Signs of Worsley New Hall, including the walls of the Paradise and Kitchen Gardens.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4021707,53.5004616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rochdale Canal Lock 87</name>
+        <description><![CDATA[<img src="https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/phg3b08p4rcj7dnji10n78o05g/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrl9bN2s_eO4nz8OzyFoKFIBMbF3uszSzPLpwtcGCjagL-ahBHD6BK6TxhUNx8BhDT5dBkLBvzVFOmwDLZglRN6CERQ4ZGfsgpF9mNLlGDbO9z1mABdFXL7JFxXommNdEkWr17qkj8hTym8IWUeljzou28VyqzD0217z7cxz75gVpEN7qzn5ikVEx0GFs-MKfQTMGk5EVs43VxSDMeLTVIaX9MlfFpH_-94_jA9akzEAqo?fife" height="200" width="auto" /><br><br>History: The Rochdale Canal was once an industrial waterway made to transport goods around the city. <br><br>Blossom: Lock 87 boasts blossom including apple and rowan.<br><br>Look out for: Wildlife and insects. Cared for by the Canal and River Trust, Lock 87 has become a haven for wildlife. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/phg3b08p4rcj7dnji10n78o05g/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrl9bN2s_eO4nz8OzyFoKFIBMbF3uszSzPLpwtcGCjagL-ahBHD6BK6TxhUNx8BhDT5dBkLBvzVFOmwDLZglRN6CERQ4ZGfsgpF9mNLlGDbO9z1mABdFXL7JFxXommNdEkWr17qkj8hTym8IWUeljzou28VyqzD0217z7cxz75gVpEN7qzn5ikVEx0GFs-MKfQTMGk5EVs43VxSDMeLTVIaX9MlfFpH_-94_jA9akzEAqo?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2380141,53.4762871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rochdale Canal Lock 89</name>
+        <description><![CDATA[<img src="https://doc-0c-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/ip0rc68gg07pusna193ld3vnmg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqqo0yHzWnQf9q17oYXV4pRqgHR7wwYbrbjfyVMKD0T1XpRtiDtXfPcGTVcdElm3RouzBMwoB5nYzn82hnQi7Ot79BNyKJlWeWZCp2Bp76jV0aaw-kmOy6TNh1N72KqKGdt9BDGdazMz4Mua36HZhTOEwEEBHCdPEKF6aJkcJr-NI7Jay_Ds7s97PsB94DeTUqMqHHLCEmKglLOW0IbCH3M7YGpw3BhTJHWgzCLhPfLx7Q?fife" height="200" width="auto" /><br><br>History: Fully opened in 1804 and closing as a through route in the 1950s, the Rochdale canal runs from Manchester to Sowerby Bridge. It reopened to boats in 2002 after an ambitious volunteer restoration project.<br><br>Blossom: The Canal and River Trust are letting Lock 89 bloom with beautiful fruit trees.<br><br>Look out for: Glossy leaved magnolias planted by City of Trees.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0c-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/ip0rc68gg07pusna193ld3vnmg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqqo0yHzWnQf9q17oYXV4pRqgHR7wwYbrbjfyVMKD0T1XpRtiDtXfPcGTVcdElm3RouzBMwoB5nYzn82hnQi7Ot79BNyKJlWeWZCp2Bp76jV0aaw-kmOy6TNh1N72KqKGdt9BDGdazMz4Mua36HZhTOEwEEBHCdPEKF6aJkcJr-NI7Jay_Ds7s97PsB94DeTUqMqHHLCEmKglLOW0IbCH3M7YGpw3BhTJHWgzCLhPfLx7Q?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2458668,53.4744063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sackville Gardens</name>
+        <description><![CDATA[<img src="https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/tgajisjprlsd12ikdk7obpv494/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqJK8JpnrstlPCFyghVG0kK3qvPBDf5CaKrFBYN5MbrYIvFl_ZnMLZOLFl1oNNxxxwU2XtZNGPC1vRgk70j6V_gQzR2L9oIlkJSsxeDgNfmE7Dc1Lq0ljIyn7EhRvVpPzgxICzlXh3B9LSP0AyAcnWSeOWzoWsJsHhoCQ6M36e3WWZjp7Kpycdf8_oUL53IGNQz9oarOMF5lHAb7teIT3ECpneDkJuRxuyvmt4CPsMJEu8?fife" height="200" width="auto" /><br><br>History: In the heart of Manchester’s Gay Village, Sackville Gardens were originally created in 1900 by the Manchester Corporation.<br><br>Blossom: Clouds of pink cherry blossom.<br><br>Look out for: The memorial to Alan Turing who helped crack enemy codes during the Second World War.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/tgajisjprlsd12ikdk7obpv494/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqJK8JpnrstlPCFyghVG0kK3qvPBDf5CaKrFBYN5MbrYIvFl_ZnMLZOLFl1oNNxxxwU2XtZNGPC1vRgk70j6V_gQzR2L9oIlkJSsxeDgNfmE7Dc1Lq0ljIyn7EhRvVpPzgxICzlXh3B9LSP0AyAcnWSeOWzoWsJsHhoCQ6M36e3WWZjp7Kpycdf8_oUL53IGNQz9oarOMF5lHAb7teIT3ECpneDkJuRxuyvmt4CPsMJEu8?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2366983,53.476888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sadler's Yard]]></name>
+        <description><![CDATA[<img src="https://doc-0g-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/r2jes8ulasdr6u69jkrpsqhgps/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoGv3MiNejlxpsW6nesLDwJJOn8vtFYG1uSS0i5CDw27OyDpnU73sgXvEi0bOpJmS6tEVRIIXOduMa6tWfis87ixbglebXcUuEkcdWgVccFZeGk1L17C1e1giIfhwYvoDHyecCZX3-ons-ENLH3L5-MxZfH_-tpUscD9dcmJ4zFDxZFjIkkfy2n_wSPSiadcYPBeNazaDZ0aNB0JWsLRRbazCO4yubPl7qDW_p2W_19hqg?fife" height="200" width="auto" /><br><br>History: Richard Arkwright was the founder of industrial spinning and he built Shudehill Mill here in 1782. He used a steam powered pumping engine with a waterwheel, creating the first steam-powered textile mill.<br> <br>Blossom: In 2023, Plant NOMA and the National Trust placed a dozen blossom trees here in pots.<br><br>Look out for: A chance to take part in a public poetry installation creating a haiku for every day of Bloomtown.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0g-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/r2jes8ulasdr6u69jkrpsqhgps/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoGv3MiNejlxpsW6nesLDwJJOn8vtFYG1uSS0i5CDw27OyDpnU73sgXvEi0bOpJmS6tEVRIIXOduMa6tWfis87ixbglebXcUuEkcdWgVccFZeGk1L17C1e1giIfhwYvoDHyecCZX3-ons-ENLH3L5-MxZfH_-tpUscD9dcmJ4zFDxZFjIkkfy2n_wSPSiadcYPBeNazaDZ0aNB0JWsLRRbazCO4yubPl7qDW_p2W_19hqg?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2398601,53.4867445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salford Quays</name>
+        <description><![CDATA[History: Once a bustling port where industrial goods were transported, in recent years Salford Quays has become home to residents, businesses and cultural institutions. <br><br>Blossom: Cheery trees.<br><br>Look out for: The Blue Peter garden outside Media City which moved here in 2012.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2841024,53.4702657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Science and Industry Museum</name>
+        <description><![CDATA[History: Home to the oldest surviving passenger station in the world and at one end of the first ever inter-city railway, there has been a museum here since.<br><br>Blossom: Poppies; hellebores; skimmias; pansies; drumstick primrose<br><br>Look out for: More on Manchester’s industrial past and the chance to explore modern science inside the museum.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2545821,53.4771358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St George's Park]]></name>
+        <description><![CDATA[<img src="https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/r60m1e8926hqsl8mb2j9k4cduc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoaSyP_sEsxoh25sy_VnBZEHH9oQSgWuAtXARmODPQEZs0oktwdQSQ0JupxtWJ_4Wku9xFfjihoZGvo4HD2rZdCTnnz32kS3zp8ZNHUb9Fl1iLa-nvn4xaQbWDicU8AaVsrLZYVthLKFurMS4eAuR-SXl4mSNJvNOKN5wdbukQMpGl7BL5hwk3IYDHr2UhTKh8xMvPeorr8eOoERVhdANxCoUwlWSZmPSrw6BGdpIk2XLw?fife" height="200" width="auto" /><br><br>History: Once home to cavalry barracks, which is why it’s also known as Barrack Park<br><br>Blossom: Relax under a cherry tree.<br><br>Look out for: The grand Georgian house where officers would once have relaxed from their drills. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/r60m1e8926hqsl8mb2j9k4cduc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoaSyP_sEsxoh25sy_VnBZEHH9oQSgWuAtXARmODPQEZs0oktwdQSQ0JupxtWJ_4Wku9xFfjihoZGvo4HD2rZdCTnnz32kS3zp8ZNHUb9Fl1iLa-nvn4xaQbWDicU8AaVsrLZYVthLKFurMS4eAuR-SXl4mSNJvNOKN5wdbukQMpGl7BL5hwk3IYDHr2UhTKh8xMvPeorr8eOoERVhdANxCoUwlWSZmPSrw6BGdpIk2XLw?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2639785,53.4683688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St John's Gardens]]></name>
+        <description><![CDATA[<img src="https://doc-0g-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/pmpngabb1jfmatm01b1ttg0cl8/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpjuMm8N_3LUy97k5cf29XyFRYSdKkuxA6G1PrCglHtLZYwXPqq3owFHA6bjLIk5fp1sho3jNpTmzpwsIPE8jjMyRQ8pTgciYlPLUOz-WiWK2tCIJNpmeVu5TUYTmYK_x0APcopSPaMbvAaHCB2j6Ttuw7mmpXePBUqAKzQPaOaYPlTt8K8atRAqh7ufS-v2hn_mG12EeG9Y0PO15oh9pu-4O-YU8L3pHMqMtRSYN5gN4A?fife" height="200" width="auto" /><br><br>History: This used to be the site of St John’s Church which was demolished in 1931.<br><br>Blossom: An orchard of crab apple trees<br><br>Look out for: Come back in the autumn to see masses of miniature crab apple fruit, the wild ancestors of the apples you see in the shops.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0g-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/pmpngabb1jfmatm01b1ttg0cl8/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpjuMm8N_3LUy97k5cf29XyFRYSdKkuxA6G1PrCglHtLZYwXPqq3owFHA6bjLIk5fp1sho3jNpTmzpwsIPE8jjMyRQ8pTgciYlPLUOz-WiWK2tCIJNpmeVu5TUYTmYK_x0APcopSPaMbvAaHCB2j6Ttuw7mmpXePBUqAKzQPaOaYPlTt8K8atRAqh7ufS-v2hn_mG12EeG9Y0PO15oh9pu-4O-YU8L3pHMqMtRSYN5gN4A?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2523982,53.4778897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Peter's Square]]></name>
+        <description><![CDATA[<img src="https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/qmc25igikttmkf7cvoptrmt5vs/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoU6qvVXoEdb6L0_hfBC7gLKMPtNzI5gxrMC4PHiMVXKaiMCEuY-n1XsxcV8z_8RbqIVuisIW9SDr7E0caw1CE42rVUUa3aE4FBGFCI6Z_jzMC4t6aisw1B6SyInViqXzbpwJwRO9MrZaRppGHGPNZjXODzjFzcLsrUO1k_o7hdGwMN3F2ecgC-CASd4epsl7ytNz7myLJ8pSxkbUZ2gq-tqcEe28Jj5ty90AEDI1cAc0s?fife" height="200" width="auto" /><br><br>History: St Peter’s church was built here in 1788, but this area is best known for the Peterloo Massacre. On 16 August 1819, troops were called in to disperse a crowd of 60,000 people who were demanding radical reform of the House of Commons. Eighteen people were reported killed and 700 injured. <br><br>Blossom: The giant foxglove trees which bloom each year are named after their fragrant flowers which look like foxgloves. These trees are great at absorbing air pollution and capturing carbon.<br><br>Look out for: The statue of suffragette Emmeline Pankhurst created in 2018 to mark 100 years since the Representation of the People Act gave some women the vote.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/qmc25igikttmkf7cvoptrmt5vs/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoU6qvVXoEdb6L0_hfBC7gLKMPtNzI5gxrMC4PHiMVXKaiMCEuY-n1XsxcV8z_8RbqIVuisIW9SDr7E0caw1CE42rVUUa3aE4FBGFCI6Z_jzMC4t6aisw1B6SyInViqXzbpwJwRO9MrZaRppGHGPNZjXODzjFzcLsrUO1k_o7hdGwMN3F2ecgC-CASd4epsl7ytNz7myLJ8pSxkbUZ2gq-tqcEe28Jj5ty90AEDI1cAc0s?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2438086,53.4780098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tariff Street</name>
+        <description><![CDATA[<img src="https://doc-00-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/gte2lodv74aimc1k2sl4dv4g9o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqyuF8PWGPGqRwCCK1swkyntAR9xWhIoIiWwlFPqiCLKvrGWqOBPBUmI-E1GyyH2eXTuFK-oGwsUsmAFeTRPnINsKw6NwLKW0xY-PIkw_9cCRaUHx350bhxsGG1I3xKIv4hvbWTjBZas4OIGf6UB_NRQ8AcdJo0-_8WEr-JqaJRiH9q_tTre6jft5wbiZLTWx9pY4c3_GvOAQJBmYTmb0Zf9PHv3xfojbSn-CZIWqz6yuw?fife" height="200" width="auto" /><br><br>History: Part of industrial Manchester, an archaeological dig in the early 2000s found evidence of 18th and 19th century workers’ housing, a pub, and a factory on Tariff Street.<br><br>Blossom: ‘Spire’ cherry trees bloom with delicate white flowers.<br><br>Look out for: Buildings you recognise – the Northern Quarter is often used as a filming location, so these might be the most famous blossom trees in Manchester.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-00-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/gte2lodv74aimc1k2sl4dv4g9o/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqyuF8PWGPGqRwCCK1swkyntAR9xWhIoIiWwlFPqiCLKvrGWqOBPBUmI-E1GyyH2eXTuFK-oGwsUsmAFeTRPnINsKw6NwLKW0xY-PIkw_9cCRaUHx350bhxsGG1I3xKIv4hvbWTjBZas4OIGf6UB_NRQ8AcdJo0-_8WEr-JqaJRiH9q_tTre6jft5wbiZLTWx9pY4c3_GvOAQJBmYTmb0Zf9PHv3xfojbSn-CZIWqz6yuw?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2328328,53.4810916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thomas Street Pocket Park</name>
+        <description><![CDATA[<img src="https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/u6uprdr5jr2901e1jpq8ljbv08/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrgMsf_2RAIB5a6V8rd3zEXW442tF_1guM7bUKUn1dqu9IAhgBC9GmP-vz--a7Cwa2M2ZU_eGcdpiCFt4ZaQVdiRjBmg6X3H67tFQvZdVtPP25NK-m9e0n3HHwaFPn9oVOG8R1kadNBszIP9cFiuNqb2iCJ2Yl-eMPpyefCbWLGen2gRIccbOqeBBrkLW7mIqJE2xU9b3lGKXUHU_5CWZJzyzaXbH03h1I-hGw_irbJz64?fife" height="200" width="auto" /><br><br>History: The Northen Quarter was once home to the city’s fruit markets. <br><br>Blossom: Cherry trees.<br><br>Look out for: The trees have turned this area into a market for wildlife with food for birds, bees and bugs.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/u6uprdr5jr2901e1jpq8ljbv08/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrgMsf_2RAIB5a6V8rd3zEXW442tF_1guM7bUKUn1dqu9IAhgBC9GmP-vz--a7Cwa2M2ZU_eGcdpiCFt4ZaQVdiRjBmg6X3H67tFQvZdVtPP25NK-m9e0n3HHwaFPn9oVOG8R1kadNBszIP9cFiuNqb2iCJ2Yl-eMPpyefCbWLGen2gRIccbOqeBBrkLW7mIqJE2xU9b3lGKXUHU_5CWZJzyzaXbH03h1I-hGw_irbJz64?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.23608,53.4836153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[University of Manchester Students' Union]]></name>
+        <description><![CDATA[<img src="https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/lgphudfefpcml749m8fu8m7mlc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgptRz1wn1yHocxeqRI-BzCI3Ug9i2mHtiskY4VGJjAuSaIq090K8R_uwdpqZ-AjZhuy1qtlGWVjn2okva8JWAUnu4MMuH8AXWeFclv1BFkdNP-fdDFuicv4hRDssOXh6sOWTKJJ8iQU2wkLqcoBgMAs2oHg1uwvRcgEO1Co0NK3IG1kG6LngBomjxO79fQ61i2CnunYL3kwjdY5KHJFs6jo1UQbGGadhuV7gk8P9d-3zUg?fife" height="200" width="auto" /><br><br>History: The Students’ Union dates back to 1861 when a union was founded for men studying at Owens College. The union has evolved and developed over the years to support and represent all the students studying at the university today.<br><br>Blossom: On the cherry trees leading up to the Union. <br><br>Look out for: The two Tibetan cherries with their shiny and peeling bark.<br>https://uom.treetrail.co.uk/ <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/lgphudfefpcml749m8fu8m7mlc/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgptRz1wn1yHocxeqRI-BzCI3Ug9i2mHtiskY4VGJjAuSaIq090K8R_uwdpqZ-AjZhuy1qtlGWVjn2okva8JWAUnu4MMuH8AXWeFclv1BFkdNP-fdDFuicv4hRDssOXh6sOWTKJJ8iQU2wkLqcoBgMAs2oHg1uwvRcgEO1Co0NK3IG1kG6LngBomjxO79fQ61i2CnunYL3kwjdY5KHJFs6jo1UQbGGadhuV7gk8P9d-3zUg?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2317333,53.4641116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waterside Arts</name>
+        <description><![CDATA[History: Once the site of Sale Civic Theatre and part of Trafford Council Town Hall, the arts centre was created when the town hall moved to Stretford.<br><br>Blossom: Spring cherry trees.<br><br>Look out for: Canal boats passing on the Bridgewater canal, with great walks along the towpath.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3194027,53.4250432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Park</name>
+        <description><![CDATA[History: Victoria Park was opened in 1902 on land that Stretford Urban Council purchased from the estate of Henry DeTrafford.<br><br>Blossom: There are over 40 established ornamental cherries around the park, with a small copse of fruiting cherries, plums, apples and pears. Blackthorn, hawthorn and rowan trees are dotted about.<br><br>Look out for: Exotic Gingko and a species of the Redwood tree. The park is home to a wide variety of wildlife and especially birds, including tree creepers, nuthatches, jays and you might hear the great spotted woodpecker. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3111388,53.4485888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Whitworth</name>
+        <description><![CDATA[<img src="https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/kqm60qko1tirfmreh312vo1ru0/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqZ63B10NzHjfrRSeM0VNCDgHTlis2_O2R3kqx7eF_o1JvunJAVpsCtUoQ-W2wsnJHlnZwSOhzZGmOXvlOcViYWNwc3bNORGbiT96a7VZUxzdAL3JG58SWokiv2lb0RguXXrVSNtLT5XQO_Rg6mVvcsLY9rK0TU28i6aBNX4I488PlLcOhRIws-svO4YGw1o7nA2t780I5jSH8Vmt6Y6J_-qVFdfcRI7xDfWubqGqd397o?fife" height="200" width="auto" /><br><br>History: The ‘Whitworth Institute and Park’ opened in 1889 for the people of Manchester. Today, urban sanctuaries have been created at the Whitworth, with waves of texture, colour and scent, which reveal themselves throughout the seasons.<br><br>Blossom: Crab apple and Amelanchier.<br><br>Look out for: Outdoor activities from The Natural and Cultural Health Service, a programme promoting positive wellbeing.  <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-04-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/kqm60qko1tirfmreh312vo1ru0/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgqZ63B10NzHjfrRSeM0VNCDgHTlis2_O2R3kqx7eF_o1JvunJAVpsCtUoQ-W2wsnJHlnZwSOhzZGmOXvlOcViYWNwc3bNORGbiT96a7VZUxzdAL3JG58SWokiv2lb0RguXXrVSNtLT5XQO_Rg6mVvcsLY9rK0TU28i6aBNX4I488PlLcOhRIws-svO4YGw1o7nA2t780I5jSH8Vmt6Y6J_-qVFdfcRI7xDfWubqGqd397o?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2293458,53.4603226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitworth Street West</name>
+        <description><![CDATA[<img src="https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/kitcq2gasn8bsvkfd4mkpa35is/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpjpMXZGxdrM7-0SJUD5U58K49t4TXlHZrh_Ji8wHmQas1WjrIJLMjKt-n0NgM3kjEUyZs_KVjTpyyVCwghB5MgJzDSzVRWpPw0oL7lKvKn6ks3eX2yDM0p7rxCNWYEwCt_VolelmnvrG160PkoGgWaF4dJkMAUN27IwFqdBRDA0M5zKWt0etYnH3YUnOmRaPbMwlOmxwWaYalbe9vRrgN1Id18Mx-caWZjhfHFSGN2JlY?fife" height="200" width="auto" /><br><br>History: Originally Gloucester Street, the name was changed following the death of engineer Sir Joseph Whitworth. <br><br>Blossom: City of Trees planted the ‘Umineko’ cherries lining the street.<br><br>Look out for: From the Ritz to the Haçienda, there has long been an active nightlife here. Bees use a ‘waggle dance’ to tell each other where to find the best nectar, so keep an eye out for dancing bees on the blossom.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0k-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/kitcq2gasn8bsvkfd4mkpa35is/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgpjpMXZGxdrM7-0SJUD5U58K49t4TXlHZrh_Ji8wHmQas1WjrIJLMjKt-n0NgM3kjEUyZs_KVjTpyyVCwghB5MgJzDSzVRWpPw0oL7lKvKn6ks3eX2yDM0p7rxCNWYEwCt_VolelmnvrG160PkoGgWaF4dJkMAUN27IwFqdBRDA0M5zKWt0etYnH3YUnOmRaPbMwlOmxwWaYalbe9vRrgN1Id18Mx-caWZjhfHFSGN2JlY?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.2473392,53.4741657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wythenshawe Park and Gardens</name>
+        <description><![CDATA[History: Once part of the parkland for Wythenshawe Hall, this land was purchased in by Lord and Lady Simon in 1926 and given to the city as a place of recreation for the people. <br><br>Blossom: Cherry and other fruit trees.<br><br>Look out for: The horticultural centre with glasshouses full of exotic plants, you won’t believe you’re in Manchester! There are volunteering opportunities and workshops by Blossom – Health Through Activity there too.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2805093,53.4038816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hulme & South Manchester trail]]></name>
+        <description><![CDATA[<img src="https://doc-0o-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/lh2i5lkodku3cv28qf21h5gdao/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgr2Aa63xlBr1ttxeNfCichP_Ekckg_945EK5ZUiWd5yZdDwssliVsIS1fU3IWxCkEUl-pCGcqjS_37IKxq91RWZg6lybAZQ-mOf5mUa_mPkxXfn8BoPciZcl2kzX_qsxcn0i8o7fZguVThuPn36iaMbD-nVvYo2NetdfN14U6Tv6AXH5A6kPJUJdn1xfzZZcBOToY0zrXnXVNOm58tEg-0zPTaYxGxJER9tvC0RDkC8fLU?fife" height="200" width="auto" /><br><br>Stroll south of the city to take in community spaces and lots of parks. Walk time approximately 2 hours 50 minutes. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey<br><br>Why not use TfGM’s walking and cycling tools to plan your route around the city?<br>https://gmwalking.co.uk/walking-routes/<br>https://tfgm.com/cycling-district-maps]]></description>
+        <styleUrl>#line-B2EBF2-2938</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0o-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/lh2i5lkodku3cv28qf21h5gdao/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgr2Aa63xlBr1ttxeNfCichP_Ekckg_945EK5ZUiWd5yZdDwssliVsIS1fU3IWxCkEUl-pCGcqjS_37IKxq91RWZg6lybAZQ-mOf5mUa_mPkxXfn8BoPciZcl2kzX_qsxcn0i8o7fZguVThuPn36iaMbD-nVvYo2NetdfN14U6Tv6AXH5A6kPJUJdn1xfzZZcBOToY0zrXnXVNOm58tEg-0zPTaYxGxJER9tvC0RDkC8fLU?fife</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -2.22926,53.4603226,0
+            -2.2316475,53.4641116,0
+            -2.2478438,53.4663036,0
+            -2.2487222,53.4652351,0
+            -2.252253,53.4701571,0
+            -2.2638927,53.4683688,0
+            -2.2478881,53.451326,0
+            -2.2248883,53.4454218,0
+            -2.2115746,53.4535014,0
+            -2.2293458,53.4603226,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>East Manchester trail</name>
+        <description><![CDATA[<img src="https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/u1kn4ilnpvstolmoadaj31ugkg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgocvie4ujMKjvL8K74CO91eyY-49631S3UCKRnvy-V1PbGLgg6HP-aHL1tfIoHlpq11BdFqWa2mBlD0xr7QUuIUqGbC_CpFtvk7MRvARMnzhZmxaW0mSfaJbJwh7FAjZ2X1DIWvT7blMRUjItiy3_ZKpXZeyKkWdJowTxzkAATyZtKOzsvWqb144suRsZ9ciqnXTSwMa5itlmrxusEFxZZIX0Ft2Uz0sFSpjsXCT8y-jmg?fife" height="200" width="auto" /><br><br>Including Manchester’s newest park and some of its oldest, there are some great green spaces to explore. Walk time approximately 1 hour 45 minutes<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey<br><br>Why not use TfGM’s walking and cycling tools to plan your route around the city?<br>https://gmwalking.co.uk/walking-routes/<br>https://tfgm.com/cycling-district-maps ]]></description>
+        <styleUrl>#line-7CB342-2550</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-14-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/u1kn4ilnpvstolmoadaj31ugkg/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgocvie4ujMKjvL8K74CO91eyY-49631S3UCKRnvy-V1PbGLgg6HP-aHL1tfIoHlpq11BdFqWa2mBlD0xr7QUuIUqGbC_CpFtvk7MRvARMnzhZmxaW0mSfaJbJwh7FAjZ2X1DIWvT7blMRUjItiy3_ZKpXZeyKkWdJowTxzkAATyZtKOzsvWqb144suRsZ9ciqnXTSwMa5itlmrxusEFxZZIX0Ft2Uz0sFSpjsXCT8y-jmg?fife</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -2.217996,53.505182,0
+            -2.1974121,53.4867092,0
+            -2.2275817,53.474988,0
+            -2.2246182,53.4715656,0
+            -2.2312645,53.4706779,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Salford trail</name>
+        <description><![CDATA[<img src="https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/nbklts7fedildivnjb77asufrk/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoRUMZmMergRF_o8MB5sV6HHZ4XQd_NiAG-qj0sQPFqlrEnrN2UCOYcD1RKDTLHlQ7langHeV3hWkxSyb33oKPMUCinxmWLV1yHNbk9yENdoiD1zi5RoEkdLc1sM5tFA5GHqeO4D3sH3mC3t9CXtA-PzAn2R8-si4-u7Qo_TA_mnXEcusspbLWwyb-4wfEF_KrV23ykzuRk4EapXk5YJkYg002-EawOW9Q8xkrzhiNzyL0?fife" height="200" width="auto" /><br><br>Take your time to explore Salford, from country parks to visitor attractions, there is something for everyone.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey<br><br>Why not use TfGM’s walking and cycling tools to plan your route around the city?<br>https://gmwalking.co.uk/walking-routes/<br>https://tfgm.com/cycling-district-maps]]></description>
+        <styleUrl>#line-880E4F-2356</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-10-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/nbklts7fedildivnjb77asufrk/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoRUMZmMergRF_o8MB5sV6HHZ4XQd_NiAG-qj0sQPFqlrEnrN2UCOYcD1RKDTLHlQ7langHeV3hWkxSyb33oKPMUCinxmWLV1yHNbk9yENdoiD1zi5RoEkdLc1sM5tFA5GHqeO4D3sH3mC3t9CXtA-PzAn2R8-si4-u7Qo_TA_mnXEcusspbLWwyb-4wfEF_KrV23ykzuRk4EapXk5YJkYg002-EawOW9Q8xkrzhiNzyL0?fife</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -2.3401002,53.5326145,0
+            -2.3977983,53.5304336,0
+            -2.4021707,53.5004616,0
+            -2.3608963,53.4946587,0
+            -2.2533162,53.4899478,0
+            -2.2715801,53.4866731,0
+            -2.2841024,53.4702657,0
+            -2.2778974,53.4696042,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>City Centre trail</name>
+        <description><![CDATA[<img src="https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/oti82jmjdrhi6ces2onqpr6on4/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoG77aXTWXQJxDr1DEGoSRVMwGAmW3I_Nha2CRSS2OrBmQOHLp3Gn7CuhzNgRNDjct4UNOwXejsr0AjYr0yqLO_Fjm9d2xMtHIaHxo14XJaWgTMWIPlPO1R63qOyImt5u_X8A3pcbgjRDNpzlzSJQhbXnMGp5pr6WhiMCTXOBqLeV0-QzY9-F6lv4OhX4hH1bQRjSEQ1neJn--stkYK9NWVZYn8KdWvZJLMNlgm_WunICI?fife" height="200" width="auto" /><br><br>Discover green spaces in unexpected places on this trail around the centre of Manchester. Walk time approximately 1 hour 50 minutes. <br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey<br><br>Why not use TfGM’s walking and cycling tools to plan your route around the city?<br>https://gmwalking.co.uk/walking-routes/<br>https://tfgm.com/cycling-district-maps ]]></description>
+        <styleUrl>#line-EDA29B-3325</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-08-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/oti82jmjdrhi6ces2onqpr6on4/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgoG77aXTWXQJxDr1DEGoSRVMwGAmW3I_Nha2CRSS2OrBmQOHLp3Gn7CuhzNgRNDjct4UNOwXejsr0AjYr0yqLO_Fjm9d2xMtHIaHxo14XJaWgTMWIPlPO1R63qOyImt5u_X8A3pcbgjRDNpzlzSJQhbXnMGp5pr6WhiMCTXOBqLeV0-QzY9-F6lv4OhX4hH1bQRjSEQ1neJn--stkYK9NWVZYn8KdWvZJLMNlgm_WunICI?fife</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -2.2547045,53.4752051,0
+            -2.2475752,53.4741146,0
+            -2.2461028,53.4743552,0
+            -2.2382502,53.476236,0
+            -2.2369344,53.4768369,0
+            -2.2330689,53.4810405,0
+            -2.23608,53.4836153,0
+            -2.2296068,53.4842662,0
+            -2.2359281,53.4887339,0
+            -2.2400961,53.4866934,0
+            -2.2443924,53.4847773,0
+            -2.2481596,53.4823121,0
+            -2.2413604,53.4786943,0
+            -2.2438086,53.4780098,0
+            -2.2491684,53.4778642,0
+            -2.2523982,53.4778897,0
+            -2.2545821,53.4771358,0
+            -2.2547045,53.4752051,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Trafford trail</name>
+        <description><![CDATA[<img src="https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/d1l27f398omp4quv8rc1d8m900/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrJ7X5L5_818THVno_Ye-e0kuH447VXEshuOv4X3rsvnGOaS-ru9selZBYXwzIPt8hccU5RwjSpgC9DR0PEpVaACWAS41kgMfPV_XX26aCwD2wCIMni65YcNFBqdEWFGxXnK6fvanVjnaUVYsD2y4SSGCOWHcz3-IJq1b_QV20IWSvyDANSTIProQ02Ja0lNA-molxFGKFpbxWGJE72nruJvemoEtu9KRZaSAQKY8TVamI?fife" height="200" width="auto" /><br><br>There are some lovely green spaces to explore in Trafford too. Use the Metrolink to head out to Hullard Park, Victoria Park and the Waterside Arts Centre. Walk time approximately 1 hour 40 minutes. Public transport: Metrolink Altrincham line.<br><br>Tell us about your experience of Bloomtown: https://nationaltrust.org.uk/bloomtown-survey<br><br>Why not use TfGM’s walking and cycling tools to plan your route around the city?<br>https://gmwalking.co.uk/walking-routes/<br>https://tfgm.com/cycling-district-maps]]></description>
+        <styleUrl>#line-0F9D58-2163</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0s-7k-mymaps.googleusercontent.com/untrusted/hostedimage/m/b3cuud60hj6ru5negsavqhtco4/d1l27f398omp4quv8rc1d8m900/1713441600000/AbA_-3VACmJw86-h2VtIBIqnlFwBxNcV/*/6AHUGKgrJ7X5L5_818THVno_Ye-e0kuH447VXEshuOv4X3rsvnGOaS-ru9selZBYXwzIPt8hccU5RwjSpgC9DR0PEpVaACWAS41kgMfPV_XX26aCwD2wCIMni65YcNFBqdEWFGxXnK6fvanVjnaUVYsD2y4SSGCOWHcz3-IJq1b_QV20IWSvyDANSTIProQ02Ja0lNA-molxFGKFpbxWGJE72nruJvemoEtu9KRZaSAQKY8TVamI?fife</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -2.2683449,53.4615102,0
+            -2.3111388,53.4485888,0
+            -2.3194027,53.4250432,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
