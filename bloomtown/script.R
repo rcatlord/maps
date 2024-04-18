@@ -15,6 +15,6 @@ leaflet() |>
   addProviderTiles(providers$CartoDB.Positron) |>
   addCircleMarkers(data = sf, 
                    color = "#ffb7c5", stroke = TRUE, opacity = 0.8,
-                   popup = ~paste("<img src='", Image, "' width = 2000/><br><strong>", Name, "</strong>", "<br>", Blossom)) |>
+                   popup = ~paste("<img src='", Image, "' width = 200/><br><strong>", Name, "</strong>", "<br>", Blossom)) |>
   addControl(paste0("<strong>Manchester Bloomtown 2024</strong><br>Source: <a href='https://www.google.com/maps/d/u/0/edit?mid=1sXQ8uV2UsZU5Zgiaab0emr-bilxw0Xo'>National Trust and others</a>"), position = 'topright') |>
   onRender(paste0("function(el, x) {$('head').append(","\'<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, viewport-fit=cover\">\'",");}"))
