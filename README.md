@@ -1,4 +1,4 @@
 # Maps
 
 - [Bloomtown](https://rcatlord.github.io/maps/bloomtown)
-- [Flag map](https://rcatlord.github.io/maps/flag_map/map.png)
+- [Flag map](https://github.com/rcatlord/maps/blob/main/flags/map.png)
